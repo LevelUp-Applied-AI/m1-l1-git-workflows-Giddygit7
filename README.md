@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/FdVrU54p)
-# [Project Title — e.g., Hospital Admission Records Analysis]
+# Regional Hospital Admission Analysis
 
 > **Lab 1 starter repo** — Replace the heading above with your project title. Team member names are not part of the lab — they go in Section 2 of your completed README in the integration task.
 
@@ -7,7 +7,9 @@
 
 ## Project Overview
 
-TODO: Write 2–3 sentences describing what this project does and who it is for.
+TODO: 
+1. We are setting up a shared environment to analyze hospital admission records for a regional health authority.
+2.  Anyone can spin up the workspace in under two minutes using only two commands.
 
 ---
 
